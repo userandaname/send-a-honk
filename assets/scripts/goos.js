@@ -11,7 +11,8 @@ const fortunes = [
   "The goos...is coming for you.",
   "You will find happiness in the arms of the goos.",
   "Goos is the answer to all of your problems.",
-  "Goos is oily as he is wise."
+  "Goos is oily as he is wise.",
+  "Did you know..Sokora means 'everywhere' in Japanese?"
 ];
 
 const honkButton = document.getElementById("honkButton");
