@@ -3,7 +3,15 @@ const fortunes = [
   "A goos watches over you...and he's judging.",
   "Honk at the world, and it will honk back.",
   "Beware: goos does not forget betrayal.",
-  "You will find success...unless goos.exe takes it first."
+  "You will find success...unless goos.exe takes it first.",
+  "Honk honk honk, the goos is near your door.",
+  "The goos is always watching. Always.",
+  "The goos is a friend to all...except you.",
+  "Goos is love. Goos is life.",
+  "The goos...is coming for you.",
+  "You will find happiness in the arms of the goos.",
+  "Goos is the answer to all of your problems.",
+  "Goos is oily as he is wise."
 ];
 
 const honkButton = document.getElementById("honkButton");
